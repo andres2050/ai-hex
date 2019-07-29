@@ -19,3 +19,9 @@ Si tiene más de un agente en la carpeta build, puede hacer una prueba ejecutand
 ```bash
 node src/external/tournament.js
 ```
+
+Grupo: Dio
+- Jose Manuel Sanclemente Franco - 1631762
+- Andrés Herrera - 1710150
+- Juan David Gómez Orozco - 1631689
+- Miguel Angel Gutierrez Prieto - 1626057
